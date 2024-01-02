@@ -13,7 +13,7 @@
 
 ![alt text](https://github.com/rniarzz/pemrograman-web-1/blob/main/Images/1.png?raw=true)
 
-<br><br><br>
+<br><br>
 
 # 2. Masuk Kedalam Php MyAdmin
 
@@ -25,13 +25,13 @@
 
 ![alt text](https://github.com/rniarzz/pemrograman-web-1/blob/main/Images/3.png?raw=true)
 
-<br><br><br>
+<br><br>
 
 # 4. Buatlah Program menggunakan Visual Studio Code 
 
 ![alt text](https://github.com/rniarzz/pemrograman-web-1/blob/main/Images/4.png?raw=true)
 
-<br><br><br>
+<br><br>
 
 # 5. Tampilan Program
 
@@ -55,7 +55,7 @@
 
 ![alt text](https://github.com/rniarzz/pemrograman-web-1/blob/main/Images/13.png?raw=true)
 
-<br><br><br>
+<br><br>
 
 # 6. Hasil Output
 
