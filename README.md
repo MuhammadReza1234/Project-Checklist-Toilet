@@ -7,7 +7,6 @@
 | 2. | Muhammad Reza Maulana       |  312210303   |
 | 3. | Aan Fadillah Putra  | 312210327 |
 
-<br><br><br>
 
 # 1. Aktifkan XAMPP
 
