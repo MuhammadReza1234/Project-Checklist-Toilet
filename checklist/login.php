@@ -26,22 +26,22 @@ if (isset($errorMsg)) echo $errorMsg;
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>UAS Pem. Web 1</title>
+    <title>Checklist Toilet</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
 </head>
-<body style="margin-top: 30px; background-color: #0A2647;">
-<div class="container" style=" background-color: #144272; width: 70%; padding: 20px;" >
+<body style="margin-top: 30px; background-color: #778899;">
+<div class="container" style=" background-color: #FF69B4; width: 70%; padding: 20px;" >
 <h1 style="color: #FFFFFF; text-align: center;">DATA CHECKLIST BULANAN</h1><br>
 <h2 style="color: #FFFFFF; text-align: center;">LOGIN</h2><br>
     <form method="POST">
-        <div class="mb-3 row" style="background-color: #205295;">
+        <div class="mb-3 row" style="background-color: 	#778899;">
             <label for="staticEmail" class="col-sm-2 col-form-label" style="color: #FFFFFF;">Username</label>
             <div class="col-sm-10">
-                <input style="color: #000000;" type="text" class="form-control" id="staticEmail" placeholder="Username" name="username">
+                <input style="color: #778899;" type="text" class="form-control" id="staticEmail" placeholder="Username" name="username">
             </div>
         </div>
         <br>
-        <div class="mb-3 row " style="background-color: #205295;">
+        <div class="mb-3 row " style="background-color: #778899;">
             <label for="inputPassword" class="col-sm-2 col-form-label" style="color: #FFFFFF;">Password</label>
             <div class="col-sm-10">
                 <input type="password" class="form-control" id="inputPassword" placeholder="Password" accept=""name="pass">
@@ -49,7 +49,7 @@ if (isset($errorMsg)) echo $errorMsg;
         </div>
         <br>
         <div class="submit">
-            <button type="submit" name="submit" class="btn" style="background-color: #2C74B3; color: #FFFFFF n ;">Login</button>
+            <button type="submit" name="submit" class="btn" style="background-color: #778899; color: #FFFFFF;">Login</button>
         </div>
         <div><br><br>
             <p style="color: #FFFFFF;">Belum memiliki akun??</p>
