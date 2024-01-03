@@ -59,10 +59,10 @@
 
 # 6. Hasil Output
 
-![alt text](https://github.com/rniarzz/pemrograman-web-1/blob/main/Images/14.png?raw=true)
+![Screenshot (794)](https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/a52672b0-7741-4c08-ad67-775ac4d3463c)
 
-![alt text](https://github.com/rniarzz/pemrograman-web-1/blob/main/Images/15.png?raw=true)
+![Screenshot (795)](https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/8af2bc32-86b5-43cb-8e7e-103e82436834)
 
-![alt text](https://github.com/rniarzz/pemrograman-web-1/blob/main/Images/16.png?raw=true)
+![Screenshot (796)](https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/9961984b-9ced-4b71-9d64-31e862a11236)
 
-![alt text](https://github.com/rniarzz/pemrograman-web-1/blob/main/Images/17.png?raw=true)
+![Screenshot (797)](https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/40ef5e63-fe4c-487c-8747-b37c5066b439)
