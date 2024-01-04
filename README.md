@@ -1,5 +1,4 @@
-<h1> Project UAS Pemrograman Web</h1><br>
-
+<h1><p align="center"> Project UAS Pemrograman Web</h1><br>
 
 | No.| Nama Kelompok | NIM | Kelas |
 |----|------------|--------|-------|
@@ -7,6 +6,7 @@
 | 2. | Muhammad Reza Maulana |  312210303 | TI.22.A3 |
 | 3. | Aan Fadillah Putra  | 312210327 | TI.22.A3 |
 
+  
 <br><br>
 
 
