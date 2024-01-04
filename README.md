@@ -37,7 +37,7 @@
 
 <img width="960" alt="Masuk Kedalam Php MyAdmin" src="https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/94f40a4a-f007-4665-b4fc-2d4b893d3963">
 
-<br><br><br>
+<br><br>
 
 ## 3. Buat Folder di htdocs dalam XAMPP 
 
@@ -53,14 +53,16 @@
 
 ## 5. Tampilan Sistem
 
+### **Halaman Login**
 
-<br><br>
+![Screenshot (794)](https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/a52672b0-7741-4c08-ad67-775ac4d3463c) <br><br>
 
+### **Halaman Home**
 
-![Screenshot (794)](https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/a52672b0-7741-4c08-ad67-775ac4d3463c)
+![Screenshot (795)](https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/8af2bc32-86b5-43cb-8e7e-103e82436834) <br><br>
 
-![Screenshot (795)](https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/8af2bc32-86b5-43cb-8e7e-103e82436834)
+### **
 
-![Screenshot (796)](https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/9961984b-9ced-4b71-9d64-31e862a11236)
+![Screenshot (796)](https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/9961984b-9ced-4b71-9d64-31e862a11236) <br><br>
 
-![Screenshot (797)](https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/40ef5e63-fe4c-487c-8747-b37c5066b439)
+![Screenshot (797)](https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/40ef5e63-fe4c-487c-8747-b37c5066b439) <br><br>
