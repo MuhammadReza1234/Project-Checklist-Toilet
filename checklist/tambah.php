@@ -38,8 +38,8 @@ if (isset($_POST['submit']))
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
 
 </head>
-<body style="margin-top: 30px; background-color: #0A2647;">
-    <div class="container" style="background-color: #144272; width: 50%; padding: 30px;">
+<body style="margin-top: 30px; background-color: #778899;">
+    <div class="container" style="background-color: #FF69B4; width: 50%; padding: 30px;">
         <h1 style="color: #FFFFFF; text-align: center;">Tambah Data</h1>
         <div class="main">
             <form method="post" action="tambah.php" enctype="multipart/form-data">
@@ -125,7 +125,7 @@ if (isset($_POST['submit']))
                     </select>
                 </div><br>
                 
-                <input class= "btn" style="background-color: #2C74B3; color: #FFFFFF;" type="submit" name="submit" value="Simpan">
+                <input class= "btn" style="background-color: #778899; color: #FFFFFF;" type="submit" name="submit" value="Simpan">
             </form>
         </div>
     </div>

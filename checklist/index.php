@@ -19,16 +19,16 @@ $result = mysqli_query($koneksi, $sql);
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Hidayat Tulloh UAS</title>
+    <title>Checklist Toilet</title>
     <link href="style.css" rel="stylesheet" type="text/css" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
 
 </head>
-<body style="margin-top: 30px; background-color: #7eeef3;">
-    <div class="container" style="background-color: #4b9b7f; width: 250%; padding: 10px;">
+<body style="margin-top: 30px; background-color: #778899;">
+    <div class="container" style="background-color: #FF69B4; width: 250%; padding: 10px;">
         <br><br>
         <div class="head">
-        <h1 style="color: #7eeef3;">Checklist Toilet</h1>
+        <h1 style="color: #FFFFFF;">Checklist Toilet</h1>
         <form>
             <div class="form-group" action="index.php" method="get" >
                 <label for="q" style="color: #FFFFFF;">Cari Data Toilet</label>
@@ -40,36 +40,36 @@ $result = mysqli_query($koneksi, $sql);
         <div class="main">
             <table class="table table-striped table-hover">
             <tr>
-                <th style="color: #7eeef3;">Tanggal</th>
-                <th style="color: #7eeef3; width: 5%;">Kode Toilet</th>
-                <th style="color: #7eeef3;">Kloset</th>
-                <th style="color: #7eeef3;">Wastafel</th>
-                <th style="color: #7eeef3;">Lantai</th>
-                <th style="color: #7eeef3;">Dinding</th>
-                <th style="color: #7eeef3;">Kaca</th>
-                <th style="color: #7eeef3;">Bau</th>
-                <th style="color: #7eeef3;">Sabun</th>
-                <th style="color: #7eeef3;">Petugas</th>
-                <th style="color: #7eeef3; width: 5%;">ID Barang</th>
-                <th style="color: #7eeef3;">Aksi</th>
+                <th style="color: #FFFFFF;">Tanggal</th>
+                <th style="color: #FFFFFF; width: 5%;">Kode Toilet</th>
+                <th style="color: #FFFFFF;">Kloset</th>
+                <th style="color: #FFFFFF;">Wastafel</th>
+                <th style="color: #FFFFFF;">Lantai</th>
+                <th style="color: #FFFFFF;">Dinding</th>
+                <th style="color: #FFFFFF;">Kaca</th>
+                <th style="color: #FFFFFF;">Bau</th>
+                <th style="color: #FFFFFF;">Sabun</th>
+                <th style="color: #FFFFFF;">Petugas</th>
+                <th style="color: #FFFFFF; width: 5%;">ID Barang</th>
+                <th style="color: #FFFFFF;">Aksi</th>
             </tr>
             <?php if($result): ?>
             <?php while($row = mysqli_fetch_array($result)): ?>
             <tr>
-                <td style="color: #7eeef3;"><?= $row['tanggal'];?></td>
-                <td style="color: #7eeef3;"><?= $row['toilet_id'];?></td>
-                <td style="color: #7eeef3;"><?= $row['kloset'];?></td>
-                <td style="color: #7eeef3;"><?= $row['wastafel'];?></td>
-                <td style="color: #7eeef3;"><?= $row['lantai'];?></td>
-                <td style="color: #7eeef3;"><?= $row['dinding'];?></td>
-                <td style="color: #7eeef3;"><?= $row['kaca'];?></td>
-                <td style="color: #7eeef3;"><?= $row['bau'];?></td>
-                <td style="color: #7eeef3;"><?= $row['sabun'];?></td>
-                <td style="color: #7eeef3;"><?= $row['users_id'];?></td>
-                <td style="color: #7eeef3;"><?= $row['id'];?></td>
-                <td style="color: #7eeef3;">
-                    <button class="btn" type="button" style="background-color: #09bcf3; width: 45%;"><a style="color: #FFFFFF;" href="ubah.php?id=<?= $row['id'];?>">Ubah Data</a></button> 
-                    <button class="btn" type="button" style="background-color: #e4492e; width: 50%;"><a style="color: #FFFFFF;" href="hapus.php?id=<?= $row['id'];?>">Hapus Data</a></button>
+                <td style="color: #FFFFFF;"><?= $row['tanggal'];?></td>
+                <td style="color: #FFFFFF;"><?= $row['toilet_id'];?></td>
+                <td style="color: #FFFFFF;"><?= $row['kloset'];?></td>
+                <td style="color: #FFFFFF;"><?= $row['wastafel'];?></td>
+                <td style="color: #FFFFFF;"><?= $row['lantai'];?></td>
+                <td style="color: #FFFFFF;"><?= $row['dinding'];?></td>
+                <td style="color: #FFFFFF;"><?= $row['kaca'];?></td>
+                <td style="color: #FFFFFF;"><?= $row['bau'];?></td>
+                <td style="color: #FFFFFF;"><?= $row['sabun'];?></td>
+                <td style="color: #FFFFFF;"><?= $row['users_id'];?></td>
+                <td style="color: #FFFFFF;"><?= $row['id'];?></td>
+                <td style="color: #FFFFFF;">
+                    <button class="btn" type="button" style="background-color: #778899; width: 45%;"><a style="color: #FFFFFF;" href="ubah.php?id=<?= $row['id'];?>">Ubah Data</a></button> 
+                    <button class="btn" type="button" style="background-color: #778899; width: 50%;"><a style="color: #FFFFFF;" href="hapus.php?id=<?= $row['id'];?>">Hapus Data</a></button>
                 </td>
             </tr>
             <?php endwhile; else: ?>
@@ -80,10 +80,10 @@ $result = mysqli_query($koneksi, $sql);
             </table>
         </div><br><br><br>
         <div>
-        <button class="btn" type="button" style="background-color: #07940e;"><a style="color: #7eeef3" href="tambah.php">Tambah Data Checklist</a></button>
+        <button class="btn" type="button" style="background-color: #778899;"><a style="color: #FFFFFF" href="tambah.php">Tambah Data Checklist</a></button>
         </div> <br>
         <div>
-        <button class="btn" type="button" style="background-color: #07940e;"><a style="color: #FFFFFF" href="home.php">Kembali</a></button>
+        <button class="btn" type="button" style="background-color: #778899;"><a style="color: #FFFFFF" href="home.php">Kembali</a></button>
         </div>
     </div>
 </body>
