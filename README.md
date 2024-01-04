@@ -7,7 +7,14 @@
 | 2. | Muhammad Reza Maulana       |  312210303   |
 | 3. | Aan Fadillah Putra  | 312210327 |
 
+Kelas : TI.22.A3 Mata Kuliah : UAS Pemrograman Web 1
+
+Link Drive
+
+https://drive.google.com/drive/folders/1Wr6GE6IXSh0HCznmwrQxUyLjbWg_upxK?usp=sharing
+
 <br><br>
+
 
 # 1. Aktifkan XAMPP
 
