@@ -61,8 +61,10 @@
 
 ![Screenshot (795)](https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/8af2bc32-86b5-43cb-8e7e-103e82436834) <br><br>
 
-### **
+### **Halaman Checklist Toilet**
 
 ![Screenshot (796)](https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/9961984b-9ced-4b71-9d64-31e862a11236) <br><br>
+
+### **Halaman Data Toilet**
 
 ![Screenshot (797)](https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/40ef5e63-fe4c-487c-8747-b37c5066b439) <br><br>
