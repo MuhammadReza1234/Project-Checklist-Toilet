@@ -26,31 +26,32 @@
 
 <br><br>
 
-# 1. Aktifkan XAMPP
+# Langkah-langkah
+## 1. Aktifkan XAMPP
 
 <img width="960" alt="Aktifkan XAMPP" src="https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/66788a2e-3a0d-48aa-bc71-40f6bcad14ad">
 
 <br><br>
 
-# 2. Masuk Kedalam Php MyAdmin
+## 2. Membuat Database Di Dalam PhpMyAdmin
 
 <img width="960" alt="Masuk Kedalam Php MyAdmin" src="https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/94f40a4a-f007-4665-b4fc-2d4b893d3963">
 
 <br><br><br>
 
-# 3. Buat Folder di htdocs dalam XAMPP 
+## 3. Buat Folder di htdocs dalam XAMPP 
 
 <img width="960" alt="Buat Folder di htdocs dalam XAMPP" src="https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/6d4d6b41-8a68-479f-8514-4d567b9fc908">
 
 <br><br>
 
-# 4. Buatlah Program menggunakan Visual Studio Code 
+## 4. Buatlah Program menggunakan Visual Studio Code 
 
 <img width="960" alt="Buatlah Program menggunakan Visual Studio Code" src="https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/082ee3b9-6aee-4095-9631-4a348f6e1376">
 
 <br><br>
 
-# 5. Tampilan Program
+## 5. Tampilan Sistem
 
 <img width="960" alt="Tampilan Program (index php)" src="https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/cdfabc36-9c92-4d89-88e6-a75fdb5a1e23">
 
@@ -74,7 +75,6 @@
 
 <br><br>
 
-# 6. Hasil Output
 
 ![Screenshot (794)](https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/a52672b0-7741-4c08-ad67-775ac4d3463c)
 
