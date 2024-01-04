@@ -1,19 +1,17 @@
 # Tugas Kelompok Pemrograman Web
 
 
-| No.| Nama Kelompok |       NIM                           |
-|----|------------|----------------------------------------|
-| 1. | Rini Ariza | 312210337               |
-| 2. | Muhammad Reza Maulana       |  312210303   |
-| 3. | Aan Fadillah Putra  | 312210327 |
+| No.| Nama Kelompok | NIM | Kelas |
+|----|------------|--------|-------|
+| 1. | Rini Ariza | 312210337| TI.22.A3 |
+| 2. | Muhammad Reza Maulana |  312210303 | TI.22.A3 |
+| 3. | Aan Fadillah Putra  | 312210327 | TI.22.A3 |
 
 <br><br>
 
-Kelas : TI.22.A3 Mata Kuliah : UAS Pemrograman Web 1
 
-Link Drive
 
-https://drive.google.com/drive/folders/1Wr6GE6IXSh0HCznmwrQxUyLjbWg_upxK?usp=sharing
+- [Link Dokumentasi PDF](https://drive.google.com/drive/folders/1Wr6GE6IXSh0HCznmwrQxUyLjbWg_upxK?usp=sharing)
 
 <br><br>
 
