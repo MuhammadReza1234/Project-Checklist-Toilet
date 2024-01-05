@@ -26,7 +26,7 @@
 
 <br><br>
 
-# Langkah-langkah cara membuat
+# Langkah-langkah 
 ## 1. Aktifkan XAMPP
 
 <img width="960" alt="Aktifkan XAMPP" src="https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/66788a2e-3a0d-48aa-bc71-40f6bcad14ad">
