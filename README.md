@@ -71,5 +71,14 @@
 
 <h1 <p align="center"><b>======== Sekian TerimaKasih ==========</b></p></h1>
 
-<img width="960" alt="koneksi" src="https://github.com/rniarzz/Project-Checklist-Toilet/assets/115516607/14b11c50-15e4-4ef8-80fd-ed98fec785da">
+
+
+
+
+
+
+
+
+
+
 
