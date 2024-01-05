@@ -70,3 +70,6 @@
 ![Screenshot (797)](https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/40ef5e63-fe4c-487c-8747-b37c5066b439) <br><br>
 
 <h1 <p align="center"><b>======== Sekian TerimaKasih ==========</b></p></h1>
+
+<img width="960" alt="koneksi" src="https://github.com/rniarzz/Project-Checklist-Toilet/assets/115516607/14b11c50-15e4-4ef8-80fd-ed98fec785da">
+
