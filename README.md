@@ -69,4 +69,4 @@
 
 ![Screenshot (797)](https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/40ef5e63-fe4c-487c-8747-b37c5066b439) <br><br>
 
-<h1 <p align="center"><b>======== Sekian Terima Kasih ==========</b></p></h1>
+<h1 <p align="center"><b>======== Sekian TerimaKasih ==========</b></p></h1>
