@@ -16,7 +16,7 @@
 
 ---
 
-## <img src= https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/33b030e8-be9a-40c0-8779-08ed7c184356 width="130px"><br> [Link Dokumentasi YouTube](https://google.com)
+## <img src= https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/33b030e8-be9a-40c0-8779-08ed7c184356 width="130px"><br> [Link Dokumentasi YouTube](https://youtu.be/OPDL2kwZFPY)
 
 ---
 
