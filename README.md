@@ -11,7 +11,6 @@
   
 <br><br>
 
-halo perkenalkan kami dari kelompok 4 ingin menyampaikan sebuah kata-kata
 # Link
 ## <img src= https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/41d3900c-41a6-4731-bb9a-de3e19aaca53 width="130px" height="70px"><br> [Link Dokumentasi PDF](https://drive.google.com/file/d/1EnlozjuNXqGGprtUAkYevHKLv871ISLM/view?usp=drivesdk)
 
@@ -27,7 +26,7 @@ halo perkenalkan kami dari kelompok 4 ingin menyampaikan sebuah kata-kata
 
 <br><br>
 
-# Langkah-langkah
+# Langkah-langkah 
 ## 1. Aktifkan XAMPP
 
 <img width="960" alt="Aktifkan XAMPP" src="https://github.com/rniarzz/Project-Checklist-Toilet/assets/115542704/66788a2e-3a0d-48aa-bc71-40f6bcad14ad">
